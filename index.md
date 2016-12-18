@@ -1,3 +1,3 @@
 # carguello.github.io
 
-_A simple blog I'll try to keep alive and running._
+Not a blog, a static page that I'll update based on my repos
